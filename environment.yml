@@ -1,0 +1,7 @@
+dependencies:
+  - altair
+  - ipywidgets
+  - matplotlib-base
+  - pandas
+  - requests
+  - voila
