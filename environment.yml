@@ -5,4 +5,4 @@ dependencies:
   - pandas
   - requests
   - requests_cache
-  - voila
+  - voila >=0.2.6
