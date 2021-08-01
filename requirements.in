@@ -1,0 +1,7 @@
+altair
+ipywidgets
+matplotlib
+pandas
+requests
+requests_cache
+voila >=0.2.6
