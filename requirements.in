@@ -4,6 +4,7 @@ jsonschema<4
 ipywidgets
 matplotlib
 pandas
+pyjstat
 requests
 requests_cache
 voila >=0.2.6
