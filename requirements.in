@@ -1,4 +1,6 @@
 altair
+# explicitly pin jsonschema due to https://github.com/altair-viz/altair/issues/2496
+jsonschema<4
 ipywidgets
 matplotlib
 pandas
